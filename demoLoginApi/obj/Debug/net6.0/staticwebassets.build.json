@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "roIf0LHzXsrxK34a2OWJHn3nhdBBCaclmshfIaNGPj4=",
+  "Source": "demoLoginApi",
+  "BasePath": "_content/demoLoginApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
